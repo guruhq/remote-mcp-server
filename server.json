@@ -1,0 +1,13 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "com.getguru/mcp-server",
+  "description": "Guru MCP Server - Connect AI tools to your Guru knowledge base for verified answers, knowledge search, and card management",
+  "version": "1.0.0",
+  "homepage": "https://developer.getguru.com/docs/guru-mcp-server-overview",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.api.getguru.com/mcp"
+    }
+  ]
+}
