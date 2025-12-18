@@ -8,7 +8,7 @@ The Guru MCP Server implements the [Model Context Protocol](https://modelcontext
 
 ## Getting Started
 
-Each organization has a unique Guru MCP server URL: `https://mcp.api.getguru.com/mcp`
+The Guru MCP server URL is: `https://mcp.api.getguru.com/mcp`
 
 **[View the Setup Guide](https://developer.getguru.com/docs/authentication-connection-setup)**
 
