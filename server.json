@@ -1,12 +1,14 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "title": "Guru Remote MCP Server",
   "name": "com.getguru/mcp-server",
   "description": "Guru MCP Server - Connect AI tools to your Guru knowledge base",
   "repository": {
     "url": "https://github.com/guruhq/remote-mcp-server",
     "source": "github"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "websiteUrl": "https://developer.getguru.com/docs/guru-mcp-server-overview",
   "homepage": "https://developer.getguru.com/docs/guru-mcp-server-overview",
   "remotes": [
     {
